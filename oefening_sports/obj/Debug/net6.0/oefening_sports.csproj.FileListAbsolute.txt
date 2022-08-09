@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\bin\Debug\net6.0\oefening_sports.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\bin\Debug\net6.0\oefening_sports.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\bin\Debug\net6.0\oefening_sports.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\bin\Debug\net6.0\oefening_sports.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\bin\Debug\net6.0\oefening_sports.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\refint\oefening_sports.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\oefening_sports.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_sports\obj\Debug\net6.0\ref\oefening_sports.dll
