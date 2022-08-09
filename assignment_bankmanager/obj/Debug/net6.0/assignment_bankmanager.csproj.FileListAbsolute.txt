@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\bin\Debug\net6.0\assignment_bankmanager.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\bin\Debug\net6.0\assignment_bankmanager.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\bin\Debug\net6.0\assignment_bankmanager.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\bin\Debug\net6.0\assignment_bankmanager.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\bin\Debug\net6.0\assignment_bankmanager.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\refint\assignment_bankmanager.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\assignment_bankmanager.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_bankmanager\obj\Debug\net6.0\ref\assignment_bankmanager.dll
