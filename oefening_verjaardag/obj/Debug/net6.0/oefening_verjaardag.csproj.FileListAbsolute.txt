@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\bin\Debug\net6.0\oefening_verjaardag.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\bin\Debug\net6.0\oefening_verjaardag.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\bin\Debug\net6.0\oefening_verjaardag.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\bin\Debug\net6.0\oefening_verjaardag.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\bin\Debug\net6.0\oefening_verjaardag.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\refint\oefening_verjaardag.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\oefening_verjaardag.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_verjaardag\obj\Debug\net6.0\ref\oefening_verjaardag.dll

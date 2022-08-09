@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\bin\Debug\net6.0\assignment_pizzatime.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\bin\Debug\net6.0\assignment_pizzatime.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\bin\Debug\net6.0\assignment_pizzatime.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\bin\Debug\net6.0\assignment_pizzatime.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\bin\Debug\net6.0\assignment_pizzatime.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\refint\assignment_pizzatime.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\assignment_pizzatime.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\assignment_pizzatime\obj\Debug\net6.0\ref\assignment_pizzatime.dll

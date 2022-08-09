@@ -1,0 +1,15 @@
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.csproj.AssemblyReference.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.AssemblyInfoInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.AssemblyInfo.cs
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.csproj.CoreCompileInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\bin\Debug\net6.0\oefening_klokje.exe
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\bin\Debug\net6.0\oefening_klokje.deps.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\bin\Debug\net6.0\oefening_klokje.runtimeconfig.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\bin\Debug\net6.0\oefening_klokje.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\bin\Debug\net6.0\oefening_klokje.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\refint\oefening_klokje.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\oefening_klokje.genruntimeconfig.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_klokje\obj\Debug\net6.0\ref\oefening_klokje.dll

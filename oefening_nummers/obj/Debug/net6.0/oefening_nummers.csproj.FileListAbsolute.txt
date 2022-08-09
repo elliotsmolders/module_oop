@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\bin\Debug\net6.0\oefening_nummers.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\bin\Debug\net6.0\oefening_nummers.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\bin\Debug\net6.0\oefening_nummers.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\bin\Debug\net6.0\oefening_nummers.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\bin\Debug\net6.0\oefening_nummers.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\refint\oefening_nummers.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\oefening_nummers.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_nummers\obj\Debug\net6.0\ref\oefening_nummers.dll

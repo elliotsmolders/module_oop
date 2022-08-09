@@ -1,0 +1,15 @@
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\bin\Debug\net6.0\oefening_rapportmodule.exe
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\bin\Debug\net6.0\oefening_rapportmodule.deps.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\bin\Debug\net6.0\oefening_rapportmodule.runtimeconfig.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\bin\Debug\net6.0\oefening_rapportmodule.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\bin\Debug\net6.0\oefening_rapportmodule.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.csproj.AssemblyReference.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.AssemblyInfoInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.AssemblyInfo.cs
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.csproj.CoreCompileInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\refint\oefening_rapportmodule.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\oefening_rapportmodule.genruntimeconfig.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_rapportmodule\obj\Debug\net6.0\ref\oefening_rapportmodule.dll

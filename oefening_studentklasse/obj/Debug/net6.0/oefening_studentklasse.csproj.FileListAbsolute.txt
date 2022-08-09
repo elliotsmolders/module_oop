@@ -1,0 +1,15 @@
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\bin\Debug\net6.0\oefening_studentklasse.exe
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\bin\Debug\net6.0\oefening_studentklasse.deps.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\bin\Debug\net6.0\oefening_studentklasse.runtimeconfig.json
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\bin\Debug\net6.0\oefening_studentklasse.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\bin\Debug\net6.0\oefening_studentklasse.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.csproj.AssemblyReference.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.AssemblyInfoInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.AssemblyInfo.cs
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.csproj.CoreCompileInputs.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\refint\oefening_studentklasse.dll
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.pdb
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\oefening_studentklasse.genruntimeconfig.cache
+C:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_studentklasse\obj\Debug\net6.0\ref\oefening_studentklasse.dll
