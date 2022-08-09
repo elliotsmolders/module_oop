@@ -1,0 +1,15 @@
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\bin\Debug\net6.0\oefening_figuren.exe
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\bin\Debug\net6.0\oefening_figuren.deps.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\bin\Debug\net6.0\oefening_figuren.runtimeconfig.json
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\bin\Debug\net6.0\oefening_figuren.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\bin\Debug\net6.0\oefening_figuren.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.csproj.AssemblyReference.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.AssemblyInfoInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.AssemblyInfo.cs
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.csproj.CoreCompileInputs.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\refint\oefening_figuren.dll
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.pdb
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\oefening_figuren.genruntimeconfig.cache
+c:\Users\ellio\OneDrive\Bureaublad\module oop\oefening_figuren\obj\Debug\net6.0\ref\oefening_figuren.dll
