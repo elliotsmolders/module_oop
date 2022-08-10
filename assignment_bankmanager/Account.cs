@@ -4,19 +4,37 @@ public class Account
     public string Naam
     {
         get { return _naam; }
-        set { _naam = value; }
+        set
+        {
+            if (!String.IsNullOrWhiteSpace(value))
+            {
+                _naam = value;
+            }
+        }
     }
     private int _bedrag;
     public int Bedrag
     {
         get { return _bedrag; }
-        set { _bedrag = value; }
+        set
+        {
+            if (value >= 0)
+            {
+                _bedrag = value;
+            }
+        }
     }
     private string _rekeningNummer;
     public string RekeningNummer
     {
         get { return _rekeningNummer; }
-        set { _rekeningNummer = value; }
+        set
+        {
+            if (!String.IsNullOrWhiteSpace(value))
+            {
+                _rekeningNummer = value;
+            }
+        }
     }
     private AccountStates _accountState;
     public AccountStates AccountState
